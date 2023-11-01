@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/sanjuafre123/sanjuafre123/blob/76f62a86b37a485e8565bd8e2ba203516c5af93f/snake.yml" alt="Snake animation" />
+
 
 
 <div align="center">
