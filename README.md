@@ -1,7 +1,7 @@
 ![MasterHead](https://ckl-website-static.s3.amazonaws.com/wp-content/uploads/2023/01/apps-made-with-flutter.jpg.webp)
 <h1 align="center">Hi 👋, I'm Sanju afre</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-
+<img align="right" src="https://github.com/sanjuafre123/sanjuafre123/blob/977ea112a28d645857547251736d6bff7df618d9/b9e4960c1476c78043d499d975f86cdb.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjuafre&label=Profile%20views&color=0e75b6&style=flat" alt="sanjuafre" /> </p>
 
 <h3 align="left">Connect with me:</h3>
