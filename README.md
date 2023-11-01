@@ -1,4 +1,4 @@
-![MasterHead](https://ckl-website-static.s3.amazonaws.com/wp-content/uploads/2023/01/apps-made-with-flutter.jpg.webp)]
+![MasterHead](https://ckl-website-static.s3.amazonaws.com/wp-content/uploads/2023/01/apps-made-with-flutter.jpg.webp)
 <h1 align="center">Hi 👋, I'm Sanju afre</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
