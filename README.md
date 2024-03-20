@@ -1,4 +1,4 @@
-![MasterHead](https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg)
+![MasterHead]https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg
 <h1 align="center">Hi 👋, I'm Sanju afre</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU" width="400">
