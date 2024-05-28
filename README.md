@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/nitishk72/image/upload/v1606933035/nstack_in/blog/flutter/flutter-banner.png)
+![MasterHead](https://www.expertappdevs.com/sitebucket/blog/20210223102618_banner.jpg)
 <h1 align="center">Hi 👋, I'm Sanju afre</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU" width="400">
@@ -16,8 +16,6 @@
 
 
 <br clear="both">
-
-
 
 
 <div align="center">
