@@ -4,15 +4,44 @@
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjuafre&label=Profile%20views&color=0e75b6&style=flat" alt="sanjuafre" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/sanju__0812/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanju_0812" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://www.instagram.com/sanju__0812/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+### 💻 Tech Stack:
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  />
+
+
 
 
 <br clear="both">
